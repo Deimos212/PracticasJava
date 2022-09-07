@@ -1,0 +1,9 @@
+Videojuegos:		Cantidad de registros			Precio Unitario
+Dark Souls 3			1000						5.0
+The Last Of Us			5000						10.0
+FIFA 2022				6000						15.0
+Mario Bros				4500						1.0
+DOOM 2					10000						1.0
+Horizon 3				5000						5.0
+Totales:				31500					184500.0
+
